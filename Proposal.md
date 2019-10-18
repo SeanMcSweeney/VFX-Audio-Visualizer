@@ -12,12 +12,7 @@ I love this art style as it is timeless and due to the cartoon art style the gam
 I want to utilize Perlin noise to allow for a cool inner tunnel terrain that is completely random and I want each object in the scene to have a random mesh renderer material.
 
 ## *Research*
-I am hoping to research all of the topics necessary to use in my project before I start coding. This includes Procedural generation, How to deal with values from the Audio listener and how to create visuals from those captured values.
-
-## *Technical Requirements*
-- One VR headset
-- PC
-- Unity 
+I am hoping to research all of the topics necessary to use in my project before I start coding. This includes Procedural generation, How to deal with values from the Audio listener and how to create visuals from those captured values. I will also need to research perlin noise and how it could be used to improve my project. From my research so far it seems like I should start on changing the properties of a shape from the different audio waves and inputs. 
 
 ## *Proposed Approach*
 - [x] Research How to Implement Audio Listener
@@ -38,4 +33,10 @@ I am hoping to research all of the topics necessary to use in my project before 
  ###### Brackeys (2017) *PERLIN NOISE in Unity - Procedural Generation Tutorial* https://www.youtube.com/watch?v=bG0uEXV6aHQ
  ###### Brackeys (2018) *PROCEDURAL TERRAIN in Unity! - Mesh Generation* https://www.youtube.com/watch?v=64NblGkAabk
  
- ## *Research*
+ ## *Conclusion*
+By the end of this project I am hoping to have a good overall understanding of using unity for procedural generation and using unity to transform audio into imagery. I will want to at least have made a working audio visual tunnel which can be controlled by the user.
+ 
+ ## *Technical Requirements*
+- One VR headset
+- PC
+- Unity
